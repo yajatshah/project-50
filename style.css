@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.group { 
+    background-color: blue;
+    color: cyan;
+    display:flex;
+justify-content: space-around;
+} 
+.footer{
+    background-color: aqua;
+    display:flex;
+    justify-content: flex-end
+}
